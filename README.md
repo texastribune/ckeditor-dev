@@ -1,4 +1,12 @@
-# CKEditor 4 - The best browser-based WYSIWYG editor
+# CKEditor 4 - Texas Tribune branch
+
+## Notes
+The purpose of this repo is to put the editor used in Tribtalk into our version control since we will likely add features as time goes one.
+
+We may want to consider using it in the main TT project as well.
+
+TODO: create a deployment procedure. Right now it lives on our S3 cdn.
+
 
 [![devDependency Status](https://david-dm.org/ckeditor/ckeditor-dev/dev-status.svg)](https://david-dm.org/ckeditor/ckeditor-dev#info=devDependencies)
 
